@@ -7,3 +7,6 @@ This page is meant for both the personal as well as the professional use of ***L
 * a home page.
 * an about me page describing ***Lucy's*** experiences.
 * a portfolio page depicting projects ***Lucy Delash*** is working on.
+
+
+![image](https://github.com/lucydelash/MyPersonalSite/blob/main/thank-you-for-stopping-by.png?raw=true)
