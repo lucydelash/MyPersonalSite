@@ -17,6 +17,10 @@ li a {
   font-size: 18;
 }
 
+li a:hover {
+  font-size: 10;
+}
+
 body {
   background-image: url("https://github.com/lucydelash/MyPersonalSite/blob/main/portfolio-background.jpg?raw=true");
   background-size: cover;
