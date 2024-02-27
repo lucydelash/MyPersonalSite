@@ -17,10 +17,6 @@ li a {
   font-size: 18;
 }
 
-li a:hover {
-  padding: 20;
-}
-
 body {
   background-image: url("https://github.com/lucydelash/MyPersonalSite/blob/main/portfolio-background.jpg?raw=true");
   background-size: cover;
@@ -29,10 +25,48 @@ body {
 .lucy-picture {
   display: flex;
   justify-content: center;
+}
+
+#lucy-definition {
+  align-self: flex-end;
+}
+
+#climbing {
+  display: flex;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
-.lucy-definition {
+#gaming {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#family {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+p {
+  text-align: center;
+  font-size: 20;
+}
+
+#girl-climbing {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#bunny {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#pokeball {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
